@@ -6,13 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Neubauer Lab
+title: The Neubauer Group
 email: msn@illinois.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: /NeubauerLab
+# Write an awesome description for your new site here. You can edit this
+#line in _config.yml. It will appear in your document head meta (for
+#Google search results) and in your feed.xml site description.
+The Neubauer Group at the University of Illinois aims to understand the universe at its fundamental level. We study
+baseurl: /NeubauerGroup
 url: ""
 
 include:
