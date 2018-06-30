@@ -77,7 +77,7 @@
   headline: Koen, Irene & Vitaly present a poster at Sun Sailing Science.
 
 - date: 17. Jan 2016
-  headline: "We discover electronic order and pseudogap in a non-cuprate materal! <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/order.png" class='img-responsive' style='max-width: 192px' />"
+  headline: "We discover electronic order and pseudogap in a non-cuprate materal! <img src'{{ site.url }}{{ site.baseurl }}/images/newspic/order.png class='img-responsive' style='max-width: 192px' />"
 
 - date: 01. Jan 2016
   headline: Welcome Vitaly!
