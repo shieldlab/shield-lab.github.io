@@ -1,9 +1,11 @@
 # Neubauer Lab Website
 
-This is the website of our academic research group at the University of Illinois in Urbana-Champaign.
+Welcome to the GitHub page of our particle physics research group at the University of Illinois in Urbana-Champaign. The actual website is
 
-This website is powered by Jekyll and some Bootstrap, Bootwatch.
+https://msneubauer.github.io/NeubauerLab/
 
-The template for this website was forked from http://www.allanlab.org/aboutwebsite.html
+which is served by GitHub Pages and powered by Jekyll and some Bootstrap, Bootwatch.
+
+The template for this website was forked from https://github.com/mpa139/allanlab and tailored according to http://www.allanlab.org/aboutwebsite.html
 
 Copyright Neubauer Lab. Code released under the MIT License.
