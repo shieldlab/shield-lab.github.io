@@ -6,8 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a small, dynamic group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter. 
-
+The Neubauer Group within the [Department of Physics](https://physics.illinois.edu) at the [University of Illinois](http://illinois.edu) aims to understand the universe at its most fundamental level, including the constituents of matter and their interactions. We are currently searching for physics beyond the standard model of particle physics through a detailed study of high-energy proton collisions at CERN's Large Hadron Collider using the ATLAS detector.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
