@@ -2,7 +2,7 @@
 
 Welcome to the GitHub page of our particle physics research group at the University of Illinois in Urbana-Champaign. The actual website is at
 
-https://msneubauer.github.io/NeubauerGroup/
+http://msneubauer.github.io/NeubauerGroup/
 
 which is served by [GitHub Pages](https://pages.github.com/) and powered by [Jekyll](https://github.com/jekyll).
 
