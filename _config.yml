@@ -12,8 +12,11 @@ email: msn@illinois.edu
 #search results) and in your feed.xml site description.
 description: > # this means to ignore newlines until "baseurl:"
   The Neubauer Group at the University of Illinois aims to understand the
-  universe at its fundamental level. We study
-  
+  universe at its most fundamental level, including the constituents of matter
+  and their interactions. We are currently searching for physics beyond the
+  standard model of particle physics through a detailed study of high-energy 
+  proton collisions at CERN's Large Hadron Collider using the ATLAS detector.
+
 baseurl: /NeubauerGroup
 url: ""
 
