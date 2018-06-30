@@ -14,9 +14,8 @@ description: > # this means to ignore newlines until "baseurl:"
   The Neubauer Group at the University of Illinois aims to understand the
   universe at its most fundamental level, including the constituents of matter
   and their interactions. We are currently searching for physics beyond the
-  standard model of particle physics through a detailed study of high-energy 
+  standard model of particle physics through a detailed study of high-energy
   proton collisions at CERN's Large Hadron Collider using the ATLAS detector.
-
 baseurl: /NeubauerGroup
 url: ""
 
@@ -34,8 +33,6 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-
-
 # Markdown Processing
 kramdown:
   input: GFM
@@ -48,5 +45,6 @@ kramdown:
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
 
+# Plug-ins
 plugins_dir:
   - jekyll-sitemap
