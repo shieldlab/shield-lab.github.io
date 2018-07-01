@@ -46,7 +46,7 @@ Our group is also developing fast electronics for highly-parallelized systems th
 
 <b>See our [Research page](research)</b> for more details and up-to-date information!
 
-Our group is within the [Physics Department](https://physics.illinois.edu) at the [University of Illinois](http://illinois.edu), best known for development of the theory of superconductivity but with a storied history of excellence in many fields including particle physics (<b>read about it [here](https://physics.illinois.edu/history/)</b>). We have members based in both Urbana and [CERN](https://home.cern) and collaborate with the [National Center for Supercomputing Applications](http://www.ncsa.illinois.edu).
+Our group is part of the [Physics Department](https://physics.illinois.edu) at the [University of Illinois](http://illinois.edu), best known for development of the theory of superconductivity but with a storied history of excellence in many fields including particle physics (<b>read the story [here](https://physics.illinois.edu/history/)</b>). We have members based in both Urbana and [CERN](https://home.cern) and collaborate strongly with the [National Center for Supercomputing Applications](http://www.ncsa.illinois.edu).
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Illinois.jpg" style="width: 70px">
