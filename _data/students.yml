@@ -7,9 +7,19 @@
 #  education2:
 #  education3:
 #  education4:
-- name: Willem Tromp
-  photo: rock.jpg
-  info: Master student
-  email: WTromp@Physics.LeidenUniv.nl
+- name: James Bonham
+  photo: unknown.png
+  info: Bachelor's degree student
+  email: jbonham2@illinois.edu
   number_educ: 0
   education1:
+
+- name: "This could be you !"
+  photo: rock.jpg
+  info: See <a href="NeubauerGroup/openings">openings</a> for more info
+  email: msn@illinois.edu
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
