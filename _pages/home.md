@@ -40,13 +40,13 @@ The <b>Neubauer Group</b> at the [University of Illinois](http://illinois.edu) a
   </a>
 </div>
 
-In this pursuit, we analyze data from the [ATLAS Experiment](http://atlasexperiment.org), with an emphasis on the <span style="color:blue">Higgs boson</span> as a <span style="color:blue">sensitive tool</span> to search for <span style="color:blue">new physics</span>.
+In this pursuit, we analyze data from the [ATLAS Experiment](http://atlasexperiment.org), with an emphasis on the <span style="color:blue">Higgs boson</span> as a <span style="color:blue">sensitive tool</span> to search for <span style="color:blue">new physics</span> and applications of <span style="color:blue">machine learning</span> to improve the sensitivity for these searches.
 
-Our group is also developing fast electronics for highly-parallelized systems that track charged particles at the LHC. If one thinks of the ATLAS detector as a massively complex camera pointed at the collision region, these systems enable real-time analysis of the field-of-view to decide when to take the pictures (i.e. "trigger" the ATLAS detector).
+Our group is also working to improve the experimental methods and apparatus in high-energy physics, including <span style="color:blue">advancing scientific software</span> and <span style="color:blue">computing</span> and developing <span style="color:blue">fast electronics</span> for <span style="color:blue">highly-parallelized</span> systems that <span style="color:blue">track charged particles</span> at the LHC.
 
 <b>See our [Research page](research)</b> for more details and up-to-date information!
 
-Our group is part of the [Physics Department](https://physics.illinois.edu) at the [University of Illinois](http://illinois.edu), best known for development of the theory of superconductivity but with a storied history of excellence in many fields including particle physics (<b>read the story [here](https://physics.illinois.edu/history/)</b>). We have members based in both Urbana and [CERN](https://home.cern) and collaborate strongly with the [National Center for Supercomputing Applications](http://www.ncsa.illinois.edu).
+Our group is part of the [Physics Department](https://physics.illinois.edu) at the [University of Illinois](http://illinois.edu), best known for development of the theory of superconductivity but with a storied history of excellence in many fields including <span style="color:blue">particle physics</span> (<b>read the story [here](https://physics.illinois.edu/history/)</b>). We have members based in both Urbana and [CERN](https://home.cern) and collaborate strongly with the [National Center for Supercomputing Applications](http://www.ncsa.illinois.edu).
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Illinois.jpg" style="width: 70px">
