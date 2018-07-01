@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-The Neubauer Group within the [Department of Physics](https://physics.illinois.edu) at the [University of Illinois](http://illinois.edu) aims to understand the universe at its most fundamental level, including the constituents of matter and their interactions. We are currently searching for physics beyond the [standard model](https://en.wikipedia.org/wiki/Standard_Model) of particle physics through a detailed study of high-energy proton collisions at [CERN](https://home.cern)'s [Large Hadron Collider](https://home.cern/topics/large-hadron-collider) using the [ATLAS](http://atlasexperiment.org) detector.
+The Neubauer Group within the [Department of Physics](https://physics.illinois.edu) at the [University of Illinois](http://illinois.edu) aims to understand the universe at its most fundamental level, including the constituents of matter and their interactions. We are currently searching for physics beyond the [standard model](https://en.wikipedia.org/wiki/Standard_Model) of particle physics through a detailed study of high-energy proton-proton collisions at [CERN](https://home.cern)'s [Large Hadron Collider](https://home.cern/topics/large-hadron-collider) using the [ATLAS](http://atlasexperiment.org) detector.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -40,8 +40,11 @@ The Neubauer Group within the [Department of Physics](https://physics.illinois.e
   </a>
 </div>
 
+To this end, we analyze data from the ATLAS experiment, with an emphasis on the Higgs boson as a sensitive new tool to search for physics beyond the standard model.
 
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want do be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
+Our group is also developing fast electronics for highly-parallelized systems that can track charged particles produced at the LHC in real time. If one thinks of the ATLAS detector as a massive and complex camera pointed at the center of proton-proton collision region, then these systems enable real-time analysis of the field-of-view to decide exactly when to take the pictures (i.e. "trigger" the ATLAS detector).
+
+See [Research](research) for more details on our research!
 
 We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
 
