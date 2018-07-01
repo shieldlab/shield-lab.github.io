@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-The Neubauer Group within the [Department of Physics](https://physics.illinois.edu) at the [University of Illinois](http://illinois.edu) aims to understand the universe at its most fundamental level, including the constituents of matter and their interactions. We are currently searching for physics beyond the standard model of particle physics through a detailed study of high-energy proton collisions at [CERN](https://home.cern)'s Large Hadron Collider using the ATLAS detector.
+The Neubauer Group within the [Department of Physics](https://physics.illinois.edu) at the [University of Illinois](http://illinois.edu) aims to understand the universe at its most fundamental level, including the constituents of matter and their interactions. We are currently searching for physics beyond the [standard model](https://en.wikipedia.org/wiki/Standard_Model) of particle physics through a detailed study of high-energy proton collisions at [CERN](https://home.cern)'s [Large Hadron Collider](https://home.cern/topics/large-hadron-collider) using the [ATLAS](http://atlasexperiment.org) detector.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
