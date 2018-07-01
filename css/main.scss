@@ -1,10 +1,10 @@
 ---
 ---
-    
+
 @import "bootstrap";
 
-img { margin-bottom: 24px; 
-     margin-top: 17px; 
+img { margin-bottom: 24px;
+     margin-top: 17px;
     border-radius:2%;
 }
 
@@ -53,6 +53,7 @@ firstp {
 
 #homeidtmp h1 {
 	text-align: center;
+  font-size: 80px;
 }
 
 #newsid img {
@@ -76,8 +77,8 @@ firstp {
 
 /* Grid overrides */
 .col-sm-4 {
-	padding-left: 26px;
-	padding-right: 26px;
+	padding-left: 16px;
+	padding-right: 16px;
 }
 
 
@@ -90,4 +91,3 @@ firstp {
     margin-left: 30px;
     margin-right: 30px;
 }
-
