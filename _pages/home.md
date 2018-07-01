@@ -40,7 +40,7 @@ The <b>Neubauer Group</b> at the [University of Illinois](http://illinois.edu) a
   </a>
 </div>
 
-To this end, we analyze data from the [ATLAS Experiment](http://atlasexperiment.org), with emphasis on the <span style="color:blue">Higgs boson</span> as a <span style="color:blue">sensitive tool</span> to search for <span style="color:blue">new physics</span>.
+In this pursuit, we analyze data from the [ATLAS Experiment](http://atlasexperiment.org), with an emphasis on the <span style="color:blue">Higgs boson</span> as a <span style="color:blue">sensitive tool</span> to search for <span style="color:blue">new physics</span>.
 
 Our group is also developing fast electronics for highly-parallelized systems that track charged particles at the LHC. If one thinks of the ATLAS detector as a massively complex camera pointed at the collision region, these systems enable real-time analysis of the field-of-view to decide when to take the pictures (i.e. "trigger" the ATLAS detector).
 
