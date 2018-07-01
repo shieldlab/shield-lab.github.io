@@ -40,18 +40,15 @@ The Neubauer Group within the [Department of Physics](https://physics.illinois.e
   </a>
 </div>
 
-To this end, we analyze data from the ATLAS experiment, with an emphasis on the Higgs boson as a sensitive new tool to search for physics beyond the standard model.
+To this end, we analyze data from the ATLAS experiment, with an emphasis on using the Higgs boson as a sensitive new tool to search for physics beyond the standard model.
 
-Our group is also developing fast electronics for highly-parallelized systems that can track charged particles produced at the LHC in real time. If one thinks of the ATLAS detector as a massive and complex camera pointed at the center of proton-proton collision region, then these systems enable real-time analysis of the field-of-view to decide exactly when to take the pictures (i.e. "trigger" the ATLAS detector).
+Our group is also developing fast electronics for highly-parallelized systems that track charged particles at the LHC. If one thinks of the ATLAS detector as a massively complex camera pointed at the collision region, these systems enable real-time analysis of the field-of-view to decide when to take the pictures (i.e. "trigger" the detector).
 
-See [Research](research) for more details on our research!
+See our [Research page](research) for more details and up-to-date information!
 
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
+We are located in the Physics Department at the University of Illinois, best known in physics for development of the theory of superconductivity. Read about the storied history of Illinois physics [here](https://physics.illinois.edu/history/).
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
-
-We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
+ We are grateful for funding from the DOE and NSF.
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
