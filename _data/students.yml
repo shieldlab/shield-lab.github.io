@@ -16,7 +16,7 @@
 
 - name: "This could be you !"
   photo: rock.jpg
-  info: See <a href="NeubauerGroup/openings">openings</a> for more info
+  info: See <a href="/NeubauerGroup/vacancies">openings</a> for more info
   email: msn@illinois.edu
   number_educ: 0
   education1:
