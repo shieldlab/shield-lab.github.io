@@ -51,8 +51,8 @@ Our group is located in the Physics Department at the University of Illinois, be
  We are grateful to receive funding from the DOE () and NSF ().
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Illinois.jpg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Illinois.jpg" style="width: 70px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NCSA.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ATLAS.jpg" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ATLAS.png" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CERN.jpg" style="width: 110px">
 </figure>
