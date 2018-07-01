@@ -6,13 +6,14 @@ sitemap: false
 permalink: /
 ---
 
-The Neubauer Group within the [Department of Physics](https://physics.illinois.edu) at the [University of Illinois](http://illinois.edu) aims to understand the universe at its most fundamental level, including the constituents of matter and their interactions. We are currently searching for physics beyond the standard model of particle physics through a detailed study of high-energy proton collisions at CERN's Large Hadron Collider using the ATLAS detector.
+The Neubauer Group within the [Department of Physics](https://physics.illinois.edu) at the [University of Illinois](http://illinois.edu) aims to understand the universe at its most fundamental level, including the constituents of matter and their interactions. We are currently searching for physics beyond the standard model of particle physics through a detailed study of high-energy proton collisions at [CERN](https://home.cern)'s Large Hadron Collider using the ATLAS detector.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
+        <li data-target="#carousel" data-slide-to="2"></li>
     </ol>
 
     <!-- Items -->
@@ -23,6 +24,10 @@ The Neubauer Group within the [Department of Physics](https://physics.illinois.e
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/ssb_testing.png" alt="Slide 2" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/vp1_3dcocktail_run167576_evt120642801_3Da_web.jpg" style="width: 600px" alt="Slide 3" />
+            <!-- https://cds.cern.ch/record/1994448/files/vp1_3dcocktail_run167576_evt120642801_3Da_web.jpg -->
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
