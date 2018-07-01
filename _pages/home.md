@@ -42,17 +42,17 @@ The Neubauer Group within the [Department of Physics](https://physics.illinois.e
 
 To this end, we analyze data from the ATLAS experiment, with an emphasis on using the Higgs boson as a sensitive new tool to search for physics beyond the standard model.
 
-Our group is also developing fast electronics for highly-parallelized systems that track charged particles at the LHC. If one thinks of the ATLAS detector as a massively complex camera pointed at the collision region, these systems enable real-time analysis of the field-of-view to decide when to take the pictures (i.e. "trigger" the detector).
+Our group is also developing fast electronics for highly-parallelized systems that track charged particles at the LHC. If one thinks of the ATLAS detector as a massively complex camera pointed at the collision region, these systems enable real-time analysis of the field-of-view to decide when to take the pictures (i.e. "trigger" the ATLAS detector).
 
 See our [Research page](research) for more details and up-to-date information!
 
-We are located in the Physics Department at the University of Illinois, best known in physics for development of the theory of superconductivity. Read about the storied history of Illinois physics [here](https://physics.illinois.edu/history/).
+Our group is located in the Physics Department at the University of Illinois, best known for development of the theory of superconductivity but also has a storied history of excellence in many fields including particle physics (read about it [here](https://physics.illinois.edu/history/)). We have members based at CERN and also collaborate strongly with the [National Center for Supercomputing Applications](http://www.ncsa.illinois.edu).
 
- We are grateful for funding from the DOE and NSF.
+ We are grateful to receive funding from the DOE () and NSF ().
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Illinois.jpg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NCSA.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ATLAS.jpg" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CERN.jpg" style="width: 110px">
 </figure>
