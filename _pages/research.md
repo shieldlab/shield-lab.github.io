@@ -27,23 +27,31 @@ Facilities such as the Large Hadron Collider (LHC), where our research is presen
 
 Our research philosophy can be summed up by a quote traditionally attributed to Galileo (whether or not he actually said it is irrelevant):
 
-> Measure what is measureable, and make measureable what is not so
+> Measure what is measurable, and make measurable what is not so
 
 Less eloquently, we can elaborate on the two parts of the quote above: The LHC affords researchers many observables to thoroughly test the SM and search for physics beyond it, so we should fully-exploit the capabilities of such a magnificent machine. Additionally, new techniques and technologies are required to push beyond current capabilities to measure what is not currently measurable – critical elements for the vitality of our field.
 
-We know that the SM is incomplete as it only describes 4% of the energy density of the Universe. The rest is composed of mysterious dark matter (23%), seen only through its gravitational influence, and even more mysterious dark energy (73%), which drives an accelerating expansion of the Universe. Neither dark matter nor dark energy have explanations within the SM. The key question is exactly where and how to look for new physics, making both measure what is measureable and make measureable what is not so all the more important.
+We know that the SM is incomplete as it only describes 4% of the energy density of the Universe. The rest is composed of mysterious dark matter (23%), seen only through its gravitational influence, and even more mysterious dark energy (73%), which drives an accelerating expansion of the Universe. Neither dark matter nor dark energy have explanations within the SM. The key question is exactly where and how to look for new physics, making both measure what is measurable and make measurable what is not so all the more important.
 
 ## Research Highlights
 
+Our research highlights are summarized in the publications listed at <a href="{{ site.url }}{{ site.baseurl }}/publications">Publications</a> for which our group played an important or leading role.
+
 ## Current Research
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
+The thrust of current research is the search for new physics using ATLAS data. Emphasis is placed on novel use of the Higgs boson as a tool to search for new particles or interactions and development of fast tracking systems.
 
-Currently, our instrument of choice  is SI-STM.  State-of-the-art SI-STM measures an array of tunneling spectra on a given sample, registered to the atomic sites with picometer precision. Each is proportional to the local density of states at a given location. Ideally, the recorded spectra are so tightly packed that the measurement yields a three-dimensional mapping of the local density of states as a function of locations and energy. This is shown on the image on the right-hand side (10x10 nm2), and its Fourier transform, below.
+### Search for New Physics in Heavy Diboson Production
 
-The quantum materials which we will investigate encapsulate some of the great unsolved mysteries of physics. They include high-temperature superconductors, quantum-critical compounds, graphene, and topological electronic matter that can be used for error-resistant quantum computing.
+The study of weak boson pair production as a sensitive means to search for new physics dates back to LEP and the Tevatron and was the primary research thrust of Neubauer as a postdoc on the CDF experiment. The increased collision energy and 2012 discovery of a Higgs boson <i>h</i> at the LHC bring new elements which dramatically extend the reach for new particles and interactions though the study of multi-boson production. Spin and couplings measurements are consistent with a SM Higgs boson with a mass of 125 GeV. A detailed understanding of the mechanism behind electroweak symmetry breaking (EWSB) is one of the primary goals of the LHC. While the Higgs boson discovery and measurements provide insight on EWSB, there is substantial room for new physics to which multi-boson production is sensitive.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_fft.jpg){: style="width: 300px; float: left; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/VBS.jpg){: style="width: 300px; float: right; border: 10px"}
+
+<b>Vector Boson Scattering</b>. The scattering of two massive vector bosons <i>V V</i>→<i>V V</i> is particularly sensitive to EWSB physics. Without a SM Higgs boson, scattering among the longitudinal components of the vector bosons increases as a function of m(<i>V V</i>) and violates unitarity at the TeV energy scale. The discovered Higgs boson provides a plausible agent to unitarize this process. However, new physics models predict enhancements in VBS either from additional resonances or only partial unitarization of this amplitude by <i>h</i>. Our group is working to isolate electroweak <i>W V jj</i> production in the challenging and search for deviations from the SM such as new diboson resonances or anomalous quartic gauge couplings. We are using the semileptonic final which is challenging but has advantages in terms of signal branching fraction and m(<i>V V</i>) resolution.
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/HiggsPotential.png){: style="width: 300px; float: left; border: 10px"}
+
+<b>Search for Higgs boson pair production</b>.
 
 A main goal is to use modern technology to build the new instrumentation needed to understand these quantum materials. I learned my trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where we investigated coupled cavity arrays in circuit QED. This allowed me to learn new techniques such as high frequency measurements, low temperature noise-free amplification, and quantum-limited measurements. The goal is to combine these with SI-STM.
 
