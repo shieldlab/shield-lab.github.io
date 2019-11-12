@@ -1,6 +1,6 @@
 - name: <a href="https://msneubauer.github.io">Mark S Neubauer</a>
-  photo: Neubauer.jpg
-  info: Professor of Physics, NCSA Affiliated Faculty
+  photo: Neubauer.png
+  info: Professor
   email: msn@illinois.edu
   number_educ: 2
   education1: Ph.D. Physics from <a href="https://www.upenn.edu">University of Pennsylvania</a> with <a href="https://www.physics.upenn.edu/people/standing-faculty/eugene-beier">Eugene Beier</a>
@@ -9,7 +9,7 @@
   education4:
 
 - name: Markus Atkinson
-  photo: Atkinson.jpg
+  photo: Atkinson.png
   info: Ph.D. Student, started September 2010
   email: atkinsn2@illinois.edu
   number_educ: 1
@@ -19,7 +19,7 @@
   education4:
 
 - name: Jiancong Zeng
-  photo: Zeng.jpg
+  photo: Zeng.png
   info: Ph.D. Student, started Fall 2013
   email: zeng13@illinois.edu
   number_educ: 1
@@ -29,7 +29,7 @@
   education4:
 
 - name: Dewen Zhong
-  photo: Zhong.jpg
+  photo: Zhong.png
   info: PhD student, started Fall 2016
   email: dzhong6@illinois.edu
   number_educ: 1
