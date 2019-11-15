@@ -26,19 +26,21 @@ jobs:
       run: |
         gem install bundler
         bundler install
-    - name: Validate and lint
-      run: |
-        bundle exec rake check
+    # - name: Validate and lint
+    #   run: |
+    #     bundle exec rake check
     - name: Build the site in the jekyll/builder container
       run: |
         docker run \
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
         jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
     - name: Deploy docs to GitHub Pages
-      if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+      # if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+      if: github.event_name == 'push'
       uses: crazy-max/ghaction-github-pages@v1.0.1
       with:
-        target_branch: gh-pages
+        # target_branch: gh-pages
+        target_branch: gh-pages-two
         build_dir: ./_site
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
