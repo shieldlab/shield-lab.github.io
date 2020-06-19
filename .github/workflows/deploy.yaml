@@ -18,7 +18,7 @@ jobs:
     - name: Setup build for deployment
       run: |
         mkdir -p docs/_build
-        cp -r css  _data  fonts  images  _includes  js  _layouts  _pages  _plugins  _sass  _site docs/_build
+        cp -r css  _data  fonts  images  _includes  js  _layouts  _pages  _plugins  _sass  docs/_build
         cp _config.yml favicon.ico Gemfile Gemfile.lock Rakefile docs/_build
     - name: Deploy build to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
