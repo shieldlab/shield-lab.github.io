@@ -1,0 +1,47 @@
+- name: <a href="https://msneubauer.github.io">Mark S Neubauer</a>
+  photo: Neubauer.png
+  info: Professor
+  email: msn@illinois.edu
+  number_educ: 2
+  education1: Ph.D. Physics from <a href="https://www.upenn.edu">University of Pennsylvania</a> with <a href="https://www.physics.upenn.edu/people/standing-faculty/eugene-beier">Eugene Beier</a>
+  education2: Postdoc at MIT and UC San Diego
+  education3:
+  education4:
+
+- name: <a href="https://www.matthewfeickert.com/">Matthew Feickert</a>
+  photo: Feickert.png
+  info: Postdoctoral Research Associate
+  email: mfeicker@illinois.edu
+  number_educ: 2
+  education1: Ph.D. Physics from <a href="http://www.physics.smu.edu/web/">Southern Methodist University</a> with <a href="https://www.physics.smu.edu/sekula/">Stephen Sekula</a>
+  education2: B.S. University of Illinois at Urbana-Champaign
+
+- name: Markus Atkinson
+  photo: Atkinson.png
+  info: Ph.D. Student, started September 2010
+  email: atkinsn2@illinois.edu
+  number_educ: 1
+  education1: B.S. University of Colorado, Boulder
+  education2:
+  education3:
+  education4:
+
+- name: Jiancong Zeng
+  photo: Zeng.png
+  info: Ph.D. Student, started Fall 2013
+  email: zeng13@illinois.edu
+  number_educ: 1
+  education1: B.S. Physics SUNY College at Geneseo
+  education2:
+  education3:
+  education4:
+
+- name: Dewen Zhong
+  photo: Zhong.png
+  info: PhD student, started Fall 2016
+  email: dzhong6@illinois.edu
+  number_educ: 1
+  education1: B.S. Physics, Michigan State University
+  education2:
+  education3:
+  education4:
