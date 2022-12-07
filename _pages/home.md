@@ -24,14 +24,8 @@ The <b>Neubauer Group</b> at the [University of Illinois](http://illinois.edu) a
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/LHC.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/ssb_testing.png" alt="Slide 2" />
-        </div>
-        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/vp1_3dcocktail_run167576_evt120642801_3Da_web.jpg" style="width: 600px" alt="Slide 3" />
             <!-- https://cds.cern.ch/record/1994448/files/vp1_3dcocktail_run167576_evt120642801_3Da_web.jpg -->
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/Illinois-atlas-cern.jpg" alt="Slide 4" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">

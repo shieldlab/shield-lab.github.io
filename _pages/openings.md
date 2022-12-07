@@ -6,29 +6,24 @@ sitemap: false
 permalink: /vacancies
 ---
 
-Under construction
-
-<!---
 # Open positions
 
 We are always looking for new group members with passion, talent, and grit!
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+You will have the chance to work on the grand challenges of particle physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, charting new directions, enhancing scientific capabilities, collecting and analyzing data from frontier experiements, and making discoveries!
 
-#### PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line.
+## Postdoctoral Research Associates
+* **Posted: December 7, 2022**: Our group currently has an opening for a postdoc. Apply by **<span style="color:red">January 9, 2023</span>** for full consideration. See the [postdoc ad](../images/openings/20221207_Illinois_postdoc_ad.pdf) and the information therein, including how to apply.
 
-There are some postdoc scholarship available.  I'd be happy to support you after you apply to our group. Take a look at the [veni fellowship](http://www.nwo.nl/en/funding/our-funding-instruments/nwo/innovational-research-incentives-scheme/veni/index.html) or the [Marie Curie fellowship](http://ec.europa.eu/research/mariecurieactions/about-msca/actions/if/index_en.htm).
+## Masters students
+Our group research lies at the intersection of artificial intelligence and physics, leveraging tools from data science. I am interested in CS and ECE Masters students to join our group. Please send me an [email](mailto:msn@illinois.edu). State briefly why you are interested and attach a CV with any skills and past experience that you would like to highlight. 
 
-#### Leiden University master students
-If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
-
-#### Bsc / Master students from elsewhere
-If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades or a personal recomendation).
+## PhD and undergraduate students
+If you are interested in working with us as a PhD student or undergraduate researcher, please send me an [email](mailto:msn@illinois.edu). State briefly why you are interested and attach a CV with any skills and past experience that you would like to highlight. 
 
 
+<!--
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
 </figure>
-
--->
+--> 
